@@ -7,7 +7,7 @@ In the meantime, you can connect with me through the links below:
 
 - 👤 [My Profile](./hkhademian)
 - 👤 [My Projects](./hkhademian/projects.md)
-- 💼 [LinkedIn](https://linkedin.com/in/hossaink)
+- 💼 [LinkedIn](https://linkedin.com/in/hossainkh)
 - 📫 [Email Me](mailto:hossain.khademian@gmail.com)
 
 Stay tuned — updates coming soon!
